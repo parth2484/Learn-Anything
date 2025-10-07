@@ -1,0 +1,5 @@
+{
+  "name": "AI Course Builder",
+  "description": "An AI-powered tool that generates course outlines on any topic and finds relevant YouTube videos to create a comprehensive learning path.",
+  "requestFramePermissions": []
+}
